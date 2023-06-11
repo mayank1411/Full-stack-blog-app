@@ -22,3 +22,8 @@
 <h2>Once the user have logged in they can WRITE a post</h2>
 
 ![image](https://github.com/mayank1411/Full-stack-blog-app/assets/108147460/e163ea0d-221f-4f48-9b41-8b64e9f4a7d0)
+
+<h2>User can see the post by the unique id in the params</h2>
+<h3>Also can see the author name and can update and delete the post</h3>
+
+![image](https://github.com/mayank1411/Full-stack-blog-app/assets/108147460/e1614915-2b60-44e4-b8e0-901519b8baed)
