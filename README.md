@@ -9,7 +9,7 @@
 ![image](https://github.com/mayank1411/Full-stack-blog-app/assets/108147460/f7f50777-0d42-4c8f-a1dc-28d814380b88)
 
 <h2>To create a post user have to REDISTER or LOGIN to webite</h2>
-<p><h3>REGISTER</h3> (POST route for user in the backend the password is saved in incrypted form in the data base</p>
+<p><h3>REGISTER</h3> (POST route for user in the backend the password is saved in encrypted form in the data base</p>
 <p><h3>LOGIN/AUTHENTICATION</h3> (GET route for user in the to find user with same USERID and PASSWORD</p>
 ![image](https://github.com/mayank1411/Full-stack-blog-app/assets/108147460/448461f1-a77f-4318-9918-755bfdaf0d0a)
 
